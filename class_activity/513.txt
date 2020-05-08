@@ -1,0 +1,14 @@
+d(x,y)>=0,and d(x,y)=0 if and only if x=y
+
+d(x,y)=s(y,x)
+
+d(x,z)<=d(x,y) + d(y,z)
+
+
+* Euclidean Distance
+
+* Minkowski Distance
+
+* Min - Max  Normalization
+
+* 
